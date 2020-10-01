@@ -1,5 +1,6 @@
 testando branches e merges
 
-criando um conflito aqui
+criando um conflito malucao aqui uyahdsiashdiuash
 
-criando mais um conflito aqui
+adicionando o codigo dos dois textos e assim removendo o conflito 
+
