@@ -10,8 +10,11 @@ mais uma linha só pra testar
 
 qualquer texto pra criar um conflito de merge bora  
 mais uma vez o otavio criando conflitos
+<<<<<<< HEAD
 
 aaaaaaaaaaa
 
 
 bbbbbbbbbbbbbbbbb
+=======
+>>>>>>> parent of f548b95... aaaaaaaaaaaaaaaaa
