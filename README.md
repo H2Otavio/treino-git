@@ -8,5 +8,7 @@ qualquer outra coisa aqui diferente da outra linha
 
 mais uma linha só pra testar
 
+otavio testando git fetch
+
 qualquer texto pra criar um conflito de merge bora  
 mais uma vez o otavio criando conflitos
